@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.6;
 
-contract MyToken {
+contract ZimToken {
     string public name;
     string public symbol;
     uint8 public decimals;
